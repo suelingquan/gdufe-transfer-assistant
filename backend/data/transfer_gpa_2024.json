@@ -1,0 +1,2441 @@
+{
+  "title": "2024级普教本科生专业二次选择拟转专业学生名单",
+  "year": 2024,
+  "note": "匿名化统计：仅保留专业、类别、志愿与绩点；不含姓名和完整学号。名单为拟转专业公示名单，不等同于最终录取结果。",
+  "records": [
+    {
+      "seq": 1,
+      "from_major": "日语",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.0152
+    },
+    {
+      "seq": 2,
+      "from_major": "行政管理",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.914679
+    },
+    {
+      "seq": 3,
+      "from_major": "人力资源管理（人才开发与管理方向）",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.876577
+    },
+    {
+      "seq": 4,
+      "from_major": "跨境电子商务",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.85641
+    },
+    {
+      "seq": 5,
+      "from_major": "资产评估",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.832743
+    },
+    {
+      "seq": 6,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.771171
+    },
+    {
+      "seq": 7,
+      "from_major": "文化产业管理",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.737607
+    },
+    {
+      "seq": 8,
+      "from_major": "资产评估",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.7
+    },
+    {
+      "seq": 9,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.669565
+    },
+    {
+      "seq": 10,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "财政学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.666372
+    },
+    {
+      "seq": 11,
+      "from_major": "行政管理",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.203604
+    },
+    {
+      "seq": 12,
+      "from_major": "资产评估（评估师）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.975652
+    },
+    {
+      "seq": 13,
+      "from_major": "国际商务",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.975229
+    },
+    {
+      "seq": 14,
+      "from_major": "投资学",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.973684
+    },
+    {
+      "seq": 15,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.916522
+    },
+    {
+      "seq": 16,
+      "from_major": "行政管理",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.916522
+    },
+    {
+      "seq": 17,
+      "from_major": "资产评估（评估师）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.868142
+    },
+    {
+      "seq": 18,
+      "from_major": "创业管理",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.857009
+    },
+    {
+      "seq": 19,
+      "from_major": "物流管理（数智供应链）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.840336
+    },
+    {
+      "seq": 20,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.793694
+    },
+    {
+      "seq": 21,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.791892
+    },
+    {
+      "seq": 22,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.779832
+    },
+    {
+      "seq": 23,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.751304
+    },
+    {
+      "seq": 24,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.737391
+    },
+    {
+      "seq": 25,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.710811
+    },
+    {
+      "seq": 26,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.710256
+    },
+    {
+      "seq": 27,
+      "from_major": "资产评估",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.707438
+    },
+    {
+      "seq": 28,
+      "from_major": "国际商务",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.696117
+    },
+    {
+      "seq": 29,
+      "from_major": "物流管理（数智供应链）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.68843
+    },
+    {
+      "seq": 30,
+      "from_major": "创业管理",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.643689
+    },
+    {
+      "seq": 31,
+      "from_major": "物流管理（数智供应链）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.597436
+    },
+    {
+      "seq": 32,
+      "from_major": "国际经济与贸易",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.57757
+    },
+    {
+      "seq": 33,
+      "from_major": "行政管理",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.575676
+    },
+    {
+      "seq": 34,
+      "from_major": "工商管理",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.446602
+    },
+    {
+      "seq": 35,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "税收学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.372897
+    },
+    {
+      "seq": 36,
+      "from_major": "资产评估",
+      "to_major": "税收学（税务师）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.247788
+    },
+    {
+      "seq": 37,
+      "from_major": "人力资源管理",
+      "to_major": "税收学（税务师）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.378761
+    },
+    {
+      "seq": 38,
+      "from_major": "资产评估",
+      "to_major": "税收学（税务师）",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.586726
+    },
+    {
+      "seq": 39,
+      "from_major": "资产评估",
+      "to_major": "税收学（税务师）",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.560177
+    },
+    {
+      "seq": 40,
+      "from_major": "资产评估",
+      "to_major": "税收学（税务师）",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.471304
+    },
+    {
+      "seq": 41,
+      "from_major": "资产评估",
+      "to_major": "税收学（智能税收）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.682353
+    },
+    {
+      "seq": 42,
+      "from_major": "行政管理",
+      "to_major": "税收学（智能税收）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.633913
+    },
+    {
+      "seq": 43,
+      "from_major": "国际经济与贸易",
+      "to_major": "税收学（智能税收）",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.475728
+    },
+    {
+      "seq": 44,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "资产评估",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.506306
+    },
+    {
+      "seq": 45,
+      "from_major": "创业管理",
+      "to_major": "大数据管理与应用（数据治理）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.711215
+    },
+    {
+      "seq": 46,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "大数据管理与应用（数据治理）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.458879
+    },
+    {
+      "seq": 47,
+      "from_major": "数字经济",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.087402
+    },
+    {
+      "seq": 48,
+      "from_major": "投资学",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.008738
+    },
+    {
+      "seq": 49,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.924348
+    },
+    {
+      "seq": 50,
+      "from_major": "工商管理",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.873786
+    },
+    {
+      "seq": 51,
+      "from_major": "工商管理",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.794393
+    },
+    {
+      "seq": 52,
+      "from_major": "资产评估",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.793694
+    },
+    {
+      "seq": 53,
+      "from_major": "工商管理",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.792233
+    },
+    {
+      "seq": 54,
+      "from_major": "大数据管理与应用（数据治理）",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.779646
+    },
+    {
+      "seq": 55,
+      "from_major": "金融科技",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.75641
+    },
+    {
+      "seq": 56,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.658559
+    },
+    {
+      "seq": 57,
+      "from_major": "经济学",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.65619
+    },
+    {
+      "seq": 58,
+      "from_major": "金融工程",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.652174
+    },
+    {
+      "seq": 59,
+      "from_major": "工商管理",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.633684
+    },
+    {
+      "seq": 60,
+      "from_major": "数据科学与大数据技术（智能计算）",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.621008
+    },
+    {
+      "seq": 61,
+      "from_major": "国际经济与贸易",
+      "to_major": "计算机科学与技术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.540541
+    },
+    {
+      "seq": 62,
+      "from_major": "大数据管理与应用（数据治理）",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.109917
+    },
+    {
+      "seq": 63,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.062162
+    },
+    {
+      "seq": 64,
+      "from_major": "资产评估",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.975221
+    },
+    {
+      "seq": 65,
+      "from_major": "国际商务",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.906796
+    },
+    {
+      "seq": 66,
+      "from_major": "大数据管理与应用",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.73964
+    },
+    {
+      "seq": 67,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.71982
+    },
+    {
+      "seq": 68,
+      "from_major": "大数据管理与应用（数据治理）",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.668908
+    },
+    {
+      "seq": 69,
+      "from_major": "大数据管理与应用",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.595413
+    },
+    {
+      "seq": 70,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "计算机科学与技术（实验区）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.544554
+    },
+    {
+      "seq": 71,
+      "from_major": "数字经济",
+      "to_major": "人工智能",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.874783
+    },
+    {
+      "seq": 72,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.925743
+    },
+    {
+      "seq": 73,
+      "from_major": "国际商务",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.923301
+    },
+    {
+      "seq": 74,
+      "from_major": "经济统计学",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.636634
+    },
+    {
+      "seq": 75,
+      "from_major": "行政管理",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.574783
+    },
+    {
+      "seq": 76,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.514414
+    },
+    {
+      "seq": 77,
+      "from_major": "人文地理与城乡规划",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.448696
+    },
+    {
+      "seq": 78,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.353153
+    },
+    {
+      "seq": 79,
+      "from_major": "酒店管理（数智化运营）",
+      "to_major": "软件工程",
+      "category": "类别一",
+      "choice": "2",
+      "gpa": 3.23913
+    },
+    {
+      "seq": 80,
+      "from_major": "酒店管理（数智化运营）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.258559
+    },
+    {
+      "seq": 81,
+      "from_major": "人力资源管理（人才开发与管理方向）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.201351
+    },
+    {
+      "seq": 82,
+      "from_major": "新闻学（政法新闻）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.172358
+    },
+    {
+      "seq": 83,
+      "from_major": "商务英语",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.162609
+    },
+    {
+      "seq": 84,
+      "from_major": "新闻学（政法新闻）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.132743
+    },
+    {
+      "seq": 85,
+      "from_major": "网络与新媒体",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.103252
+    },
+    {
+      "seq": 86,
+      "from_major": "新闻学（政法新闻）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.0912
+    },
+    {
+      "seq": 87,
+      "from_major": "商务英语",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.024348
+    },
+    {
+      "seq": 88,
+      "from_major": "工商管理",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.977143
+    },
+    {
+      "seq": 89,
+      "from_major": "新闻学（政法新闻）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.97438
+    },
+    {
+      "seq": 90,
+      "from_major": "网络与新媒体",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.971545
+    },
+    {
+      "seq": 91,
+      "from_major": "汉语言文学（创意写作）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.955238
+    },
+    {
+      "seq": 92,
+      "from_major": "国际商务",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.923301
+    },
+    {
+      "seq": 93,
+      "from_major": "数据科学与大数据技术（智能计算）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.905217
+    },
+    {
+      "seq": 94,
+      "from_major": "汉语言文学（商务文秘）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.9
+    },
+    {
+      "seq": 95,
+      "from_major": "社会工作",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.894872
+    },
+    {
+      "seq": 96,
+      "from_major": "国际经济与贸易",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.894393
+    },
+    {
+      "seq": 97,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.888889
+    },
+    {
+      "seq": 98,
+      "from_major": "经济学",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.888571
+    },
+    {
+      "seq": 99,
+      "from_major": "新闻学（政法新闻）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.87563
+    },
+    {
+      "seq": 100,
+      "from_major": "资产评估（评估师）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.875214
+    },
+    {
+      "seq": 101,
+      "from_major": "税收学（智能税收）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.862857
+    },
+    {
+      "seq": 102,
+      "from_major": "网络与新媒体",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.839024
+    },
+    {
+      "seq": 103,
+      "from_major": "英语",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.833043
+    },
+    {
+      "seq": 104,
+      "from_major": "社会工作",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.813043
+    },
+    {
+      "seq": 105,
+      "from_major": "新闻学（政法新闻）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.808547
+    },
+    {
+      "seq": 106,
+      "from_major": "广告学",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.77561
+    },
+    {
+      "seq": 107,
+      "from_major": "经济统计学",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.734951
+    },
+    {
+      "seq": 108,
+      "from_major": "税收学（税务师）",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.731304
+    },
+    {
+      "seq": 109,
+      "from_major": "英语",
+      "to_major": "法学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.705217
+    },
+    {
+      "seq": 110,
+      "from_major": "国际商务",
+      "to_major": "法学（数字法治）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.011881
+    },
+    {
+      "seq": 111,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "法学（数字法治）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.954054
+    },
+    {
+      "seq": 112,
+      "from_major": "资产评估（评估师）",
+      "to_major": "法学（数字法治）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.915929
+    },
+    {
+      "seq": 113,
+      "from_major": "人文地理与城乡规划",
+      "to_major": "法学（数字法治）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.8272
+    },
+    {
+      "seq": 114,
+      "from_major": "财务管理",
+      "to_major": "法学（数字法治）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.81453
+    },
+    {
+      "seq": 115,
+      "from_major": "人力资源管理（人力资源开发方向）",
+      "to_major": "市场营销（数智营销）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 2.990476
+    },
+    {
+      "seq": 116,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "市场营销（数智营销）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 2.835135
+    },
+    {
+      "seq": 117,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "市场营销（数智营销）",
+      "category": "类别二",
+      "choice": "2",
+      "gpa": 2.810619
+    },
+    {
+      "seq": 118,
+      "from_major": "社会工作",
+      "to_major": "物流管理（数智供应链）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.732174
+    },
+    {
+      "seq": 119,
+      "from_major": "社会工作",
+      "to_major": "物流管理（数智供应链）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.624348
+    },
+    {
+      "seq": 120,
+      "from_major": "创业管理",
+      "to_major": "物流管理（数智供应链）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.587387
+    },
+    {
+      "seq": 121,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "物流管理（数智供应链）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.151304
+    },
+    {
+      "seq": 122,
+      "from_major": "资产评估",
+      "to_major": "社会工作",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.30708
+    },
+    {
+      "seq": 123,
+      "from_major": "日语",
+      "to_major": "社会工作",
+      "category": "类别二",
+      "choice": "3",
+      "gpa": 3.1088
+    },
+    {
+      "seq": 124,
+      "from_major": "社会工作",
+      "to_major": "金融学（公司金融）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.700885
+    },
+    {
+      "seq": 125,
+      "from_major": "社会工作",
+      "to_major": "金融学（公司金融）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.492174
+    },
+    {
+      "seq": 126,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "金融学（公司金融）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.343478
+    },
+    {
+      "seq": 127,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "金融学（公司金融）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.332479
+    },
+    {
+      "seq": 128,
+      "from_major": "创业管理",
+      "to_major": "金融学（公司金融）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.309346
+    },
+    {
+      "seq": 129,
+      "from_major": "物流管理（数智供应链）",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.936585
+    },
+    {
+      "seq": 130,
+      "from_major": "创业管理",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.903738
+    },
+    {
+      "seq": 131,
+      "from_major": "文化产业管理",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.8464
+    },
+    {
+      "seq": 132,
+      "from_major": "人力资源管理（人才开发与管理方向）",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.794595
+    },
+    {
+      "seq": 133,
+      "from_major": "工商管理",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.759596
+    },
+    {
+      "seq": 134,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.755856
+    },
+    {
+      "seq": 135,
+      "from_major": "创业管理",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.742718
+    },
+    {
+      "seq": 136,
+      "from_major": "广告学",
+      "to_major": "财务管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.718487
+    },
+    {
+      "seq": 137,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.827826
+    },
+    {
+      "seq": 138,
+      "from_major": "经济学",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.803478
+    },
+    {
+      "seq": 139,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.617391
+    },
+    {
+      "seq": 140,
+      "from_major": "酒店管理（数智化运营）",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.561789
+    },
+    {
+      "seq": 141,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.532432
+    },
+    {
+      "seq": 142,
+      "from_major": "行政管理",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.486087
+    },
+    {
+      "seq": 143,
+      "from_major": "行政管理",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.481739
+    },
+    {
+      "seq": 144,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "财务管理（管理会计方向）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.400935
+    },
+    {
+      "seq": 145,
+      "from_major": "社会工作",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.876522
+    },
+    {
+      "seq": 146,
+      "from_major": "社会工作",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.811966
+    },
+    {
+      "seq": 147,
+      "from_major": "行政管理",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.8
+    },
+    {
+      "seq": 148,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.79469
+    },
+    {
+      "seq": 149,
+      "from_major": "资产评估",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.779646
+    },
+    {
+      "seq": 150,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.771304
+    },
+    {
+      "seq": 151,
+      "from_major": "资产评估（评估师）",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.75913
+    },
+    {
+      "seq": 152,
+      "from_major": "经济学",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.657143
+    },
+    {
+      "seq": 153,
+      "from_major": "工商管理",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.649515
+    },
+    {
+      "seq": 154,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.646729
+    },
+    {
+      "seq": 155,
+      "from_major": "国际商务",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.645631
+    },
+    {
+      "seq": 156,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.582609
+    },
+    {
+      "seq": 157,
+      "from_major": "行政管理",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.58087
+    },
+    {
+      "seq": 158,
+      "from_major": "行政管理",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.554867
+    },
+    {
+      "seq": 159,
+      "from_major": "供应链管理",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.522523
+    },
+    {
+      "seq": 160,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "财务管理（智能财务）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.509735
+    },
+    {
+      "seq": 161,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.269903
+    },
+    {
+      "seq": 162,
+      "from_major": "行政管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.185217
+    },
+    {
+      "seq": 163,
+      "from_major": "审计学",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.165217
+    },
+    {
+      "seq": 164,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.139316
+    },
+    {
+      "seq": 165,
+      "from_major": "工商管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.1
+    },
+    {
+      "seq": 166,
+      "from_major": "资产评估",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.097345
+    },
+    {
+      "seq": 167,
+      "from_major": "供应链管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.065421
+    },
+    {
+      "seq": 168,
+      "from_major": "社会工作",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.054274
+    },
+    {
+      "seq": 169,
+      "from_major": "资产评估（评估师）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.037391
+    },
+    {
+      "seq": 170,
+      "from_major": "人力资源管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.030088
+    },
+    {
+      "seq": 171,
+      "from_major": "工商管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.029524
+    },
+    {
+      "seq": 172,
+      "from_major": "创业管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.023301
+    },
+    {
+      "seq": 173,
+      "from_major": "社会工作",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.021368
+    },
+    {
+      "seq": 174,
+      "from_major": "保险学",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.010891
+    },
+    {
+      "seq": 175,
+      "from_major": "资产评估（评估师）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.001739
+    },
+    {
+      "seq": 176,
+      "from_major": "旅游管理（数字文旅投资与运营）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.993277
+    },
+    {
+      "seq": 177,
+      "from_major": "创业管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.985859
+    },
+    {
+      "seq": 178,
+      "from_major": "数字经济",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.984874
+    },
+    {
+      "seq": 179,
+      "from_major": "社会工作",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.973043
+    },
+    {
+      "seq": 180,
+      "from_major": "工商管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.944762
+    },
+    {
+      "seq": 181,
+      "from_major": "工商管理",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.932039
+    },
+    {
+      "seq": 182,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.925641
+    },
+    {
+      "seq": 183,
+      "from_major": "国际商务",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.918447
+    },
+    {
+      "seq": 184,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "会计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.918261
+    },
+    {
+      "seq": 185,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "审计学（智能审计）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.202804
+    },
+    {
+      "seq": 186,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "审计学（智能审计）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.689916
+    },
+    {
+      "seq": 187,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "保险学",
+      "category": "类别二",
+      "choice": "3",
+      "gpa": 3.171171
+    },
+    {
+      "seq": 188,
+      "from_major": "金融学（公司金融）",
+      "to_major": "金融工程",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.742523
+    },
+    {
+      "seq": 189,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "金融工程",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.28018
+    },
+    {
+      "seq": 190,
+      "from_major": "国际经济与贸易",
+      "to_major": "金融科技",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.419626
+    },
+    {
+      "seq": 191,
+      "from_major": "人力资源管理",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.807339
+    },
+    {
+      "seq": 192,
+      "from_major": "人力资源管理",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.8
+    },
+    {
+      "seq": 193,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.752252
+    },
+    {
+      "seq": 194,
+      "from_major": "新闻学（财经新闻）",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.61453
+    },
+    {
+      "seq": 195,
+      "from_major": "行政管理",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.567568
+    },
+    {
+      "seq": 196,
+      "from_major": "保险学",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.515888
+    },
+    {
+      "seq": 197,
+      "from_major": "物流管理（数智供应链）",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.498165
+    },
+    {
+      "seq": 198,
+      "from_major": "酒店管理（数智化运营）",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.285217
+    },
+    {
+      "seq": 199,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "金融学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.256522
+    },
+    {
+      "seq": 200,
+      "from_major": "日语",
+      "to_major": "投资学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.9768
+    },
+    {
+      "seq": 201,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "投资学",
+      "category": "类别二",
+      "choice": "2",
+      "gpa": 3.241284
+    },
+    {
+      "seq": 202,
+      "from_major": "经济学",
+      "to_major": "国际经济与贸易",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.95619
+    },
+    {
+      "seq": 203,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "国际经济与贸易",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.766087
+    },
+    {
+      "seq": 204,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "国际经济与贸易",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.591892
+    },
+    {
+      "seq": 205,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "国际经济与贸易",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.417431
+    },
+    {
+      "seq": 206,
+      "from_major": "广告学",
+      "to_major": "国际商务",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.769919
+    },
+    {
+      "seq": 207,
+      "from_major": "财务管理（管理会计方向）",
+      "to_major": "经济学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.709565
+    },
+    {
+      "seq": 208,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "数字经济",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.720513
+    },
+    {
+      "seq": 209,
+      "from_major": "国际经济与贸易",
+      "to_major": "数字经济",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.329907
+    },
+    {
+      "seq": 210,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "人力资源管理",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.598291
+    },
+    {
+      "seq": 211,
+      "from_major": "行政管理",
+      "to_major": "广告学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.814783
+    },
+    {
+      "seq": 212,
+      "from_major": "国际商务",
+      "to_major": "广告学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.468932
+    },
+    {
+      "seq": 213,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "广告学",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.18018
+    },
+    {
+      "seq": 214,
+      "from_major": "社会工作",
+      "to_major": "汉语言文学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.943478
+    },
+    {
+      "seq": 215,
+      "from_major": "社会工作",
+      "to_major": "汉语言文学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.92087
+    },
+    {
+      "seq": 216,
+      "from_major": "社会工作",
+      "to_major": "汉语言文学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.813913
+    },
+    {
+      "seq": 217,
+      "from_major": "金融学",
+      "to_major": "汉语言文学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.676289
+    },
+    {
+      "seq": 218,
+      "from_major": "工商管理",
+      "to_major": "汉语言文学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.475229
+    },
+    {
+      "seq": 219,
+      "from_major": "英语",
+      "to_major": "汉语言文学（创意写作）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.714783
+    },
+    {
+      "seq": 220,
+      "from_major": "文化产业管理",
+      "to_major": "汉语言文学（创意写作）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.681818
+    },
+    {
+      "seq": 221,
+      "from_major": "会展经济与管理（数字会展与创意策划）",
+      "to_major": "汉语言文学（创意写作）",
+      "category": "类别一",
+      "choice": "2",
+      "gpa": 3.54359
+    },
+    {
+      "seq": 222,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "汉语言文学（创意写作）",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.763063
+    },
+    {
+      "seq": 223,
+      "from_major": "行政管理",
+      "to_major": "汉语言文学（商务文秘）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.789565
+    },
+    {
+      "seq": 224,
+      "from_major": "会展经济与管理（数字会展与创意策划）",
+      "to_major": "汉语言文学（商务文秘）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.767521
+    },
+    {
+      "seq": 225,
+      "from_major": "行政管理",
+      "to_major": "汉语言文学（商务文秘）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.686957
+    },
+    {
+      "seq": 226,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "汉语言文学（商务文秘）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.545946
+    },
+    {
+      "seq": 227,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "网络与新媒体",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.696396
+    },
+    {
+      "seq": 228,
+      "from_major": "新闻学（财经新闻）",
+      "to_major": "网络与新媒体",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.631092
+    },
+    {
+      "seq": 229,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "新闻学（财经新闻）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.523009
+    },
+    {
+      "seq": 230,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "新闻学（财经新闻）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.241593
+    },
+    {
+      "seq": 231,
+      "from_major": "社会工作",
+      "to_major": "新闻学（政法新闻）",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.461468
+    },
+    {
+      "seq": 232,
+      "from_major": "人力资源管理（人力资源开发方向）",
+      "to_major": "经济统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.920354
+    },
+    {
+      "seq": 233,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "经济统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.845794
+    },
+    {
+      "seq": 234,
+      "from_major": "国际经济与贸易",
+      "to_major": "经济统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.551351
+    },
+    {
+      "seq": 235,
+      "from_major": "经济学",
+      "to_major": "经济统计学",
+      "category": "类别一",
+      "choice": "2",
+      "gpa": 3.638532
+    },
+    {
+      "seq": 236,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "数学与应用数学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.641739
+    },
+    {
+      "seq": 237,
+      "from_major": "金融学（公司金融）",
+      "to_major": "数学与应用数学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.626168
+    },
+    {
+      "seq": 238,
+      "from_major": "创业管理",
+      "to_major": "数学与应用数学",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.574757
+    },
+    {
+      "seq": 239,
+      "from_major": "电子商务（大数据决策分析）",
+      "to_major": "数学与应用数学",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.05514
+    },
+    {
+      "seq": 240,
+      "from_major": "市场营销（数智营销）",
+      "to_major": "统计学",
+      "category": "类别一",
+      "choice": "2",
+      "gpa": 3.562609
+    },
+    {
+      "seq": 241,
+      "from_major": "土地资源管理（智慧国土与空间规划）",
+      "to_major": "应用统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.126549
+    },
+    {
+      "seq": 242,
+      "from_major": "经济学",
+      "to_major": "应用统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.737615
+    },
+    {
+      "seq": 243,
+      "from_major": "行政管理",
+      "to_major": "应用统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.693043
+    },
+    {
+      "seq": 244,
+      "from_major": "投资学",
+      "to_major": "应用统计学",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.683838
+    },
+    {
+      "seq": 245,
+      "from_major": "行政管理",
+      "to_major": "应用统计学",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.394393
+    },
+    {
+      "seq": 246,
+      "from_major": "工商管理",
+      "to_major": "应用统计学",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.365657
+    },
+    {
+      "seq": 247,
+      "from_major": "商务英语",
+      "to_major": "日语",
+      "category": "类别二",
+      "choice": "1",
+      "gpa": 3.029565
+    },
+    {
+      "seq": 248,
+      "from_major": "翻译",
+      "to_major": "英语",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 4.006087
+    },
+    {
+      "seq": 249,
+      "from_major": "翻译",
+      "to_major": "英语",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.75913
+    },
+    {
+      "seq": 250,
+      "from_major": "国际经济与贸易",
+      "to_major": "英语",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.563063
+    },
+    {
+      "seq": 251,
+      "from_major": "人工智能",
+      "to_major": "英语",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.455372
+    },
+    {
+      "seq": 252,
+      "from_major": "翻译",
+      "to_major": "英语",
+      "category": "类别一",
+      "choice": "3",
+      "gpa": 3.731304
+    },
+    {
+      "seq": 253,
+      "from_major": "动画",
+      "to_major": "数字媒体艺术（数字影像）",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.997521
+    },
+    {
+      "seq": 254,
+      "from_major": "城市管理（城市数字治理）",
+      "to_major": "会展经济与管理（数字会展与创意策划）",
+      "category": "类别二",
+      "choice": "2",
+      "gpa": 3.306306
+    },
+    {
+      "seq": 255,
+      "from_major": "投资学",
+      "to_major": "文化产业管理",
+      "category": "类别二",
+      "choice": "2",
+      "gpa": 3.069307
+    },
+    {
+      "seq": 256,
+      "from_major": "环境设计",
+      "to_major": "数字媒体艺术",
+      "category": "类别一",
+      "choice": "1",
+      "gpa": 3.713675
+    }
+  ],
+  "summary": {
+    "财政学": {
+      "count": 10,
+      "min": 3.6664,
+      "p25": 3.6696,
+      "median": 3.802,
+      "p75": 3.8766,
+      "max": 4.0152
+    },
+    "税收学": {
+      "count": 25,
+      "min": 3.3729,
+      "p25": 3.6437,
+      "median": 3.7513,
+      "p75": 3.8681,
+      "max": 4.2036
+    },
+    "税收学（税务师）": {
+      "count": 5,
+      "min": 3.3788,
+      "p25": 3.3788,
+      "median": 3.5602,
+      "p75": 3.5867,
+      "max": 4.2478
+    },
+    "税收学（智能税收）": {
+      "count": 3,
+      "min": 3.4757,
+      "p25": 3.4757,
+      "median": 3.6339,
+      "p75": 3.6824,
+      "max": 3.6824
+    },
+    "资产评估": {
+      "count": 1,
+      "min": 3.5063,
+      "p25": 3.5063,
+      "median": 3.5063,
+      "p75": 3.5063,
+      "max": 3.5063
+    },
+    "大数据管理与应用（数据治理）": {
+      "count": 2,
+      "min": 3.4589,
+      "p25": 3.4589,
+      "median": 3.585,
+      "p75": 3.7112,
+      "max": 3.7112
+    },
+    "计算机科学与技术": {
+      "count": 15,
+      "min": 3.5405,
+      "p25": 3.6337,
+      "median": 3.7796,
+      "p75": 3.8738,
+      "max": 4.0874
+    },
+    "计算机科学与技术（实验区）": {
+      "count": 9,
+      "min": 3.5446,
+      "p25": 3.5954,
+      "median": 3.7396,
+      "p75": 3.9752,
+      "max": 4.1099
+    },
+    "人工智能": {
+      "count": 1,
+      "min": 3.8748,
+      "p25": 3.8748,
+      "median": 3.8748,
+      "p75": 3.8748,
+      "max": 3.8748
+    },
+    "软件工程": {
+      "count": 8,
+      "min": 3.2391,
+      "p25": 3.3532,
+      "median": 3.5446,
+      "p75": 3.9233,
+      "max": 3.9257
+    },
+    "法学": {
+      "count": 30,
+      "min": 3.7052,
+      "p25": 3.833,
+      "median": 3.8974,
+      "p75": 4.0243,
+      "max": 4.2586
+    },
+    "法学（数字法治）": {
+      "count": 5,
+      "min": 3.8145,
+      "p25": 3.8145,
+      "median": 3.9159,
+      "p75": 3.9541,
+      "max": 4.0119
+    },
+    "市场营销（数智营销）": {
+      "count": 3,
+      "min": 2.8106,
+      "p25": 2.8106,
+      "median": 2.8351,
+      "p75": 2.9905,
+      "max": 2.9905
+    },
+    "物流管理（数智供应链）": {
+      "count": 4,
+      "min": 3.1513,
+      "p25": 3.1513,
+      "median": 3.6059,
+      "p75": 3.7322,
+      "max": 3.7322
+    },
+    "社会工作": {
+      "count": 2,
+      "min": 3.1088,
+      "p25": 3.1088,
+      "median": 3.2079,
+      "p75": 3.3071,
+      "max": 3.3071
+    },
+    "金融学（公司金融）": {
+      "count": 5,
+      "min": 3.3093,
+      "p25": 3.3093,
+      "median": 3.3435,
+      "p75": 3.4922,
+      "max": 3.7009
+    },
+    "财务管理": {
+      "count": 8,
+      "min": 3.7185,
+      "p25": 3.7427,
+      "median": 3.7771,
+      "p75": 3.9037,
+      "max": 3.9366
+    },
+    "财务管理（管理会计方向）": {
+      "count": 8,
+      "min": 3.4009,
+      "p25": 3.4817,
+      "median": 3.5471,
+      "p75": 3.8035,
+      "max": 3.8278
+    },
+    "财务管理（智能财务）": {
+      "count": 16,
+      "min": 3.5097,
+      "p25": 3.5809,
+      "median": 3.6533,
+      "p75": 3.7947,
+      "max": 3.8765
+    },
+    "会计学": {
+      "count": 24,
+      "min": 3.9183,
+      "p25": 3.973,
+      "median": 4.0223,
+      "p75": 4.0973,
+      "max": 4.2699
+    },
+    "审计学（智能审计）": {
+      "count": 2,
+      "min": 3.6899,
+      "p25": 3.6899,
+      "median": 3.9464,
+      "p75": 4.2028,
+      "max": 4.2028
+    },
+    "保险学": {
+      "count": 1,
+      "min": 3.1712,
+      "p25": 3.1712,
+      "median": 3.1712,
+      "p75": 3.1712,
+      "max": 3.1712
+    },
+    "金融工程": {
+      "count": 2,
+      "min": 3.2802,
+      "p25": 3.2802,
+      "median": 3.5114,
+      "p75": 3.7425,
+      "max": 3.7425
+    },
+    "金融科技": {
+      "count": 1,
+      "min": 3.4196,
+      "p25": 3.4196,
+      "median": 3.4196,
+      "p75": 3.4196,
+      "max": 3.4196
+    },
+    "金融学": {
+      "count": 9,
+      "min": 3.2565,
+      "p25": 3.2852,
+      "median": 3.5676,
+      "p75": 3.7523,
+      "max": 3.8073
+    },
+    "投资学": {
+      "count": 2,
+      "min": 3.2413,
+      "p25": 3.2413,
+      "median": 3.609,
+      "p75": 3.9768,
+      "max": 3.9768
+    },
+    "国际经济与贸易": {
+      "count": 4,
+      "min": 3.4174,
+      "p25": 3.4174,
+      "median": 3.679,
+      "p75": 3.9562,
+      "max": 3.9562
+    },
+    "国际商务": {
+      "count": 1,
+      "min": 3.7699,
+      "p25": 3.7699,
+      "median": 3.7699,
+      "p75": 3.7699,
+      "max": 3.7699
+    },
+    "经济学": {
+      "count": 1,
+      "min": 3.7096,
+      "p25": 3.7096,
+      "median": 3.7096,
+      "p75": 3.7096,
+      "max": 3.7096
+    },
+    "数字经济": {
+      "count": 2,
+      "min": 3.3299,
+      "p25": 3.3299,
+      "median": 3.5252,
+      "p75": 3.7205,
+      "max": 3.7205
+    },
+    "人力资源管理": {
+      "count": 1,
+      "min": 3.5983,
+      "p25": 3.5983,
+      "median": 3.5983,
+      "p75": 3.5983,
+      "max": 3.5983
+    },
+    "广告学": {
+      "count": 3,
+      "min": 3.1802,
+      "p25": 3.1802,
+      "median": 3.4689,
+      "p75": 3.8148,
+      "max": 3.8148
+    },
+    "汉语言文学": {
+      "count": 5,
+      "min": 3.4752,
+      "p25": 3.4752,
+      "median": 3.8139,
+      "p75": 3.9209,
+      "max": 3.9435
+    },
+    "汉语言文学（创意写作）": {
+      "count": 4,
+      "min": 3.5436,
+      "p25": 3.5436,
+      "median": 3.6983,
+      "p75": 3.7631,
+      "max": 3.7631
+    },
+    "汉语言文学（商务文秘）": {
+      "count": 4,
+      "min": 3.5459,
+      "p25": 3.5459,
+      "median": 3.7272,
+      "p75": 3.7896,
+      "max": 3.7896
+    },
+    "网络与新媒体": {
+      "count": 2,
+      "min": 3.6311,
+      "p25": 3.6311,
+      "median": 3.6637,
+      "p75": 3.6964,
+      "max": 3.6964
+    },
+    "新闻学（财经新闻）": {
+      "count": 2,
+      "min": 3.2416,
+      "p25": 3.2416,
+      "median": 3.3823,
+      "p75": 3.523,
+      "max": 3.523
+    },
+    "新闻学（政法新闻）": {
+      "count": 1,
+      "min": 3.4615,
+      "p25": 3.4615,
+      "median": 3.4615,
+      "p75": 3.4615,
+      "max": 3.4615
+    },
+    "经济统计学": {
+      "count": 4,
+      "min": 3.5514,
+      "p25": 3.5514,
+      "median": 3.7422,
+      "p75": 3.9204,
+      "max": 3.9204
+    },
+    "数学与应用数学": {
+      "count": 4,
+      "min": 3.0551,
+      "p25": 3.0551,
+      "median": 3.6005,
+      "p75": 3.6417,
+      "max": 3.6417
+    },
+    "统计学": {
+      "count": 1,
+      "min": 3.5626,
+      "p25": 3.5626,
+      "median": 3.5626,
+      "p75": 3.5626,
+      "max": 3.5626
+    },
+    "应用统计学": {
+      "count": 6,
+      "min": 3.3657,
+      "p25": 3.3657,
+      "median": 3.6884,
+      "p75": 3.7376,
+      "max": 4.1265
+    },
+    "日语": {
+      "count": 1,
+      "min": 3.0296,
+      "p25": 3.0296,
+      "median": 3.0296,
+      "p75": 3.0296,
+      "max": 3.0296
+    },
+    "英语": {
+      "count": 5,
+      "min": 3.4554,
+      "p25": 3.4554,
+      "median": 3.7313,
+      "p75": 3.7591,
+      "max": 4.0061
+    },
+    "数字媒体艺术（数字影像）": {
+      "count": 1,
+      "min": 3.9975,
+      "p25": 3.9975,
+      "median": 3.9975,
+      "p75": 3.9975,
+      "max": 3.9975
+    },
+    "会展经济与管理（数字会展与创意策划）": {
+      "count": 1,
+      "min": 3.3063,
+      "p25": 3.3063,
+      "median": 3.3063,
+      "p75": 3.3063,
+      "max": 3.3063
+    },
+    "文化产业管理": {
+      "count": 1,
+      "min": 3.0693,
+      "p25": 3.0693,
+      "median": 3.0693,
+      "p75": 3.0693,
+      "max": 3.0693
+    },
+    "数字媒体艺术": {
+      "count": 1,
+      "min": 3.7137,
+      "p25": 3.7137,
+      "median": 3.7137,
+      "p75": 3.7137,
+      "max": 3.7137
+    }
+  }
+}

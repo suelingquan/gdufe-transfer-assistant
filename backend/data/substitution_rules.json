@@ -1,0 +1,44 @@
+[
+  {
+    "id": "same-code",
+    "from_name": "高等数学（一）",
+    "to_name": "高等数学Ⅰ",
+    "reason": "同名课程的不同写法，通常直接等同",
+    "max_credits": null
+  },
+  {
+    "id": "computer-basic",
+    "from_name": "大学计算机基础",
+    "to_name": "计算机基础",
+    "reason": "同名课程的不同写法，通常直接等同",
+    "max_credits": null
+  },
+  {
+    "id": "programming",
+    "from_name": "C语言程序设计",
+    "to_name": "程序设计基础",
+    "reason": "课程内容高度重叠，需目标学院确认",
+    "max_credits": null
+  },
+  {
+    "id": "stats",
+    "from_name": "概率统计",
+    "to_name": "概率论与数理统计",
+    "reason": "同名课程的不同写法，通常直接等同",
+    "max_credits": null
+  },
+  {
+    "id": "accounting-finance",
+    "from_name": "财务管理",
+    "to_name": "管理会计",
+    "reason": "部分内容重叠，是否替代以目标学院认定为准",
+    "max_credits": null
+  },
+  {
+    "id": "econ",
+    "from_name": "西方经济学",
+    "to_name": "经济学原理",
+    "reason": "常见命名差异，需目标学院确认",
+    "max_credits": null
+  }
+]
